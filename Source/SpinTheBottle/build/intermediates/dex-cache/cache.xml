@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\SpinTheBottle\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="E:\SpinTheBottle\app\build\intermediates\pre-dexed\debug\classes-782104bc3bb7d55802fea8f1410f0e8de5c664ca.jar" />
+    </item>
+    <item
+        jar="E:\SpinTheBottle\app\build\intermediates\exploded-aar\com.google.android.support\wearable\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="E:\SpinTheBottle\app\build\intermediates\pre-dexed\debug\classes-ee96a2a16e99e3bb723bbf13de5d4e2a1fe51e72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siri\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\SpinTheBottle\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-cc0d4ef19b09290d33aa666766dfb34191fb54f6.jar" />
+    </item>
+    <item
+        jar="E:\SpinTheBottle\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="E:\SpinTheBottle\app\build\intermediates\pre-dexed\debug\classes-a358314a5dd4b184beda492b8ec208b469e0063c.jar" />
+    </item>
+    <item
+        jar="E:\SpinTheBottle\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="E:\SpinTheBottle\app\build\intermediates\pre-dexed\debug\classes-761fa28ab3dd54e59dcd4050edc1ed6a8f57a214.jar" />
+    </item>
+    <item
+        jar="E:\SpinTheBottle\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\SpinTheBottle\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-1373cb39dd62fc9fd2baf53234e29ec396811c4a.jar" />
+    </item>
+    <item
+        jar="E:\SpinTheBottle\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\SpinTheBottle\app\build\intermediates\pre-dexed\debug\classes-e753167c161d2c2565fe3dca5e2cfd3be7be7852.jar" />
+    </item>
+    <item
+        jar="E:\SpinTheBottle\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="E:\SpinTheBottle\app\build\intermediates\pre-dexed\debug\classes-d17df0b1a9f6e771ee9f927574f8f215a59559e9.jar" />
+    </item>
+
+</items>
